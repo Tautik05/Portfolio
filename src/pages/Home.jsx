@@ -79,7 +79,7 @@ const Home = () => {
             <div className="mt-8 flex items-center gap-5 text-slate-500">
 
               <a
-                href="https://www.linkedin.com/in/tautik-sinha-roy-88908128a/"
+                href="https://www.linkedin.com/in/tautik-sinha-roy/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"

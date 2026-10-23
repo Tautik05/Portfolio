@@ -23,7 +23,7 @@ const Contact = () => {
     {
       name: "LinkedIn",
       value: "linkedin.com/in/tautik-sinha-roy-88908128a",
-      href: "https://www.linkedin.com/in/tautik-sinha-roy-88908128a/",
+      href: "https://www.linkedin.com/in/tautik-sinha-roy/",
       icon: <FaLinkedin />,
     },
     {

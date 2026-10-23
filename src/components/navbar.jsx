@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { FaBars, FaXmark, FaArrowUpRightFromSquare } from "react-icons/fa6";
 
-const RESUME_URL = "https://drive.google.com/file/d/1jxQ92a6uujVXfm-D78uWhvJW5uLL_-cd/view?usp=sharing"
+const RESUME_URL = "https://drive.google.com/file/d/11edMa06Ia4M3RzdNnSe8dswv8lPMDGLy/view?usp=sharing"
 
 const navItems = [
   { name: "Home", path: "/" },
